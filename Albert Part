@@ -1,0 +1,164 @@
+<tw-storydata name="Fernando Part" startnode="1" creator="Twine" creator-version="2.5.1" format="Harlowe" format-version="3.3.3" ifid="C311A6C5-DAB7-4694-9EA6-4217D3625A74" options="" tags="" zoom="0.6" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Battle" tags="" position="575,200" size="100,100">The tide was restless. The waves where crashing against the shell of the Nautilus. This was a really bad sign from the sea, as it was preventing that something but was going to happen. On board of the Nautilus we can see Carrie talking with Pete Peg-Leg of their business, Pete it&#39;s always talking about that, he doesn&#39;t have nothing more in mind. You are on the bow of the see, leaning against the railing, looking at the nervous sea, next to your charming Nurnunee friend, Bill. 
+
+You are talking about the day that you met, at Turtur Island, untill Bill, a little bit alterated divises something on the horizon.
+
+Bill: Look! Olvan, what&#39;s that spot on the horizon??
+
+Jack: Hum... I can&#39;t tell it, it&#39;s still really far, but it&#39;ws approaching us, it gives me bad vibes...
+
+Bill: Jack... It&#39;s a ship?
+
+Jack: Meh, maybe a whale?
+
+Bill: By the Beard of Neptune! Jaaaaaaaaaaack! Look at the flag! The Sons of the Sea! It&#39;s Mad Bones!
+
+Jack:
+
+[[Run and Tell Carrie]]
+
+[[Shout]]
+
+
+</tw-passagedata><tw-passagedata pid="2" name="Run and Tell Carrie" tags="" position="500,575" size="100,100">A rush of energy invades all of your body, and you start running to Carrie shouting, pushing away all the pirates that you find trough your way, untill you get her. You&#39;re almost speechless as the mix of the effort running and the terror of seing the Sons of the Sea approaching you. Carrie and Pete look at you with a really worried face.
+
+Carrie: Jack!, What happens?, You seem frightened.
+
+Jack: Ma-ma-ma it&#39;s Mad Bones Carrie!
+
+Carrie: What do you meas!?
+
+Jack: Lo-loo-loo look at the sea, they are aproaching us! What are we doing??
+
+Carrie: Aaaaaagh! I wasn&#39;t expecting that. I don&#39;t know, I&#39;m blocked, are you ready for a battle?
+
+Jack: 
+
+[[Yes! Let&#39;s Face them!]]
+
+[[Not yet! I think we should run away.]]</tw-passagedata><tw-passagedata pid="3" name="Shout" tags="" position="900,275" size="100,100">The terror starts invading all your body. You can&#39;t move but you get enough forces to face it. You take out all your energy from inside and start shoutintg.
+
+Jack: Caaaarrie! The Sons of the Sea are chasing us!
+
+Carrie: Aaaagh! Thins are going to get rough. 
+
+Jack: What are we doing!?
+
+Carrie: I don&#39;t know, I&#39;m blocked, are you ready for a battle?
+
+Jack: 
+
+[[Yes! Let&#39;s Face them!]]
+
+[[Not yet! I think we should run away.]]
+
+
+
+</tw-passagedata><tw-passagedata pid="4" name="Yes! Let&#39;s Face them!" tags="" position="925,750" size="100,100"></tw-passagedata><tw-passagedata pid="5" name="Not yet! I think we should run away." tags="" position="1075,675" size="100,100"></tw-passagedata></tw-storydata>
+
+<tw-storydata name="Design-Story" startnode="1" creator="Twine" creator-version="2.5.1" format="Chapbook" format-version="1.2.2" ifid="1D95A5EA-2473-4F44-AB7D-55F733A20291" options="" tags="" zoom="0.6" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-tag name="Expostion" color="blue"></tw-tag><tw-tag name="Introduction" color="blue"></tw-tag><tw-tag name="Plot" color="red"></tw-tag><tw-tag name="End" color="green"></tw-tag><tw-tag name="Characters" color="orange"></tw-tag><tw-tag name="Places" color="purple"></tw-tag><tw-tag name="Character-sheet" color="orange"></tw-tag><tw-tag name="Place-sheet" color="purple"></tw-tag><tw-passagedata pid="1" name="Adventure start point (Introduction)" tags="Introduction" position="600,600" size="100,100">Our story begins like any other, with a protagonist meant to have an amazing, dangerous and frenetic adventure.
+
+~~[[Jack Olvan]]~~, our hero, is a twenty year old boy resident of ~~[[Magninsule]]~~, the biggest island of the ~~[[Stagnant Waters]]~~ archipelago. He belongs to a good standing family composed by his father, his brother and him. That&#39;s because his mother died when Jack was barely five years old, but has never been a reason for him to be weak.
+
+Generally, his life is rather monotonous, as he is finishing his Naval Engineering studies and has not much time for anything else. However, sometimes it&#39;s not as easy as it seems, given that his group of friends is constantly getting in trouble or seeking for an adventure.
+
+~~[[Century dilema]]~~</tw-passagedata><tw-passagedata pid="2" name="Matters of interest" tags="Introduction" position="1200,300" size="100,100">Inside his head, Jack can&#39;t stop thinking if he has taken the right choice, in thoughts of curiosity and envy asks himself where they might be his friends. What he doesn&#39;t know is that will be reunited with them shortly.
+
+~~[[Escaping from reality]]~~</tw-passagedata><tw-passagedata pid="3" name="Sail to the unknown" tags="Introduction" position="1200,900" size="100,100">Before being able to sail with the troup Jack will have to deal with some obstacles, which mainly consist in avoiding his father&#39;s attention until he is out of the port.
+
+~~[[A bumpy start]]~~</tw-passagedata><tw-passagedata pid="4" name="Century dilema" tags="Introduction" position="900,600" size="100,100">The summer break is just starting, when suddenly his calmed pace of life gets interrupted by the leader of his friends group, who comes with a brave but foolish preposition for the team.
+He ensures that some brave man are being recruited around the island to fight against a dangerous group of criminals coming from Tenebris sea. The reports say that since last week they have been attacking the ports of Liberportus.
+
+The rest of the Squad immediately understands why they are talking about such dangerous events, they are sailing into the unknown once more!
+***
+
+~~[[Sail to the unknown]]~~ - And so does Jack, without thinking it twice he decides for once to put aside his responsibilities and duties to let luck choose his destiny...
+
+~~[[Matters of interest]]~~ - No matter how much Jack wants to go, deep inside knows that he has to stay and help out with the family business.
+</tw-passagedata><tw-passagedata pid="5" name="A bumpy start" tags="Introduction" position="1800,900" size="100,100">A
+
+~~[[The horizon awaits]]~~</tw-passagedata><tw-passagedata pid="6" name="Final" tags="End" position="2700,600" size="100,100">The tide was restless. The waves where crashing against the shell of the Nautilus. This was a really bad sign from the sea, as it was preventing that something but was going to happen. On board of the Nautilus we can see Carrie talking with Pete Peg-Leg of their business, Pete it&#39;s always talking about that, he doesn&#39;t have nothing more in mind. You are on the bow of the see, leaning against the railing, looking at the nervous sea, next to your charming Nurnunee friend, Bill. 
+
+You are talking about the day that you met, at Turtur Island, untill Bill, a little bit alterated divises something on the horizon.
+
+Bill: Look! Olvan, what&#39;s that spot on the horizon??
+
+Olvan: Hum... I can&#39;t tell it, it&#39;s still really far, but it&#39;ws approaching us, it gives me bad vibes...
+
+
+
+
+
+
+
+
+
+
+</tw-passagedata><tw-passagedata pid="7" name="Jack Olvan" tags="Character-sheet" position="700,300" size="100,100">Jack is a boy in his twenties finishing his studies in naval engineering. Living in Magnisule has not much to worry about, his family has status, money. Even though his family is not conventional, they live happily. His mother died when Jack was very young and does not really remember much, and his little brother, Max, lately has been arguing a lot more with father about politics. Every family has its problems, but they are good with each other.
+
+**Motivations:**
+He&#39;s got enough money from his parents to not need to worry, so he&#39;s never got any motivation from work  or money wise. He still works in commerce of goods by boat,  sometimes working in contraband too. He and his friends work together and that keeps it as motivation to keep working. You could say relationships are his real motivation. Started a career with some of them. Working, hobbies, partying... He does nearly everything with them. Recently is taking a liking to his studies and is taking extra hours to do some research outside studies.
+
+**Goals:**
+Finishing the last year of studies, getting this important gig (valuable materials as presents to his friends arriving in 2 months), getting a deeper understanding of engineering and start designing a float. As you can see, Jack does not look far away in the future. He is satisfied with how things are and wants to keep it that way.
+
+**Fears:**
+The imminent break of his group of friends (marriage of 2 of them, all finishing studies, some plans to travel). Not being smart enough to design and work in naval engineering. His father cutting ties with his brother who is more rebel day by day.
+
+**Phobias:**
+Change, long goodbyes, rings and jewelry.
+
+**Remarkable traits:**
+Working and trading, negotiating, Jack developed better social abilities by force. 
+Knowledge in physics and naval engineer.
+
+**Stats:**
+Jack never fought, and never even though we would have to, so it isn’t prepared at all. He is weak and does not have the stamina. But even all of this, he makes up with good weaponry and his quick mind.
+
+
+~~{link to: &#39;Adventure start point (Introduction)&#39;, label: &#39;Return&#39;}~~</tw-passagedata><tw-passagedata pid="8" name="Magninsule" tags="Place-sheet" position="300,300" size="100,100">Magninsule, is the land of the humans, where they are free to trade and extend their wealth. The capital, located in the middle of the island, distinguished for being a very populated area, is committed to the change and modernization with the use of emerging technologies.
+
+~~{link to: &#39;Adventure start point (Introduction)&#39;, label: &#39;Return&#39;}~~</tw-passagedata><tw-passagedata pid="9" name="Stagnant Waters" tags="Place-sheet" position="500,300" size="100,100">Stagnant Waters, where this story unfolds, consist of an archipelago formed by one big island and many smaller ones. Where it’s known that three different races cohabit in “peace”.
+
+~~{link to: &#39;Adventure start point (Introduction)&#39;, label: &#39;Return&#39;}~~</tw-passagedata><tw-passagedata pid="10" name="Escaping from reality" tags="Introduction" position="1500,300" size="100,100">A
+
+~~[[Reunited again]]~~</tw-passagedata><tw-passagedata pid="11" name="Reunited again" tags="Introduction" position="1800,300" size="100,100">A
+
+~~[[The horizon awaits]]~~</tw-passagedata><tw-passagedata pid="12" name="The horizon awaits" tags="Introduction" position="2100,600" size="100,100">Between the excitement and fear inside their young hearts observe the distant horizon without knowing what fate holds for them.
+
+~~[[Begins plot, Albert&#39;s part]]~~</tw-passagedata><tw-passagedata pid="13" name="Begins plot, Albert&#39;s part" tags="Plot" position="2400,600" size="100,100"></tw-passagedata></tw-storydata>
+
+<tw-storydata name="al_part" startnode="2" creator="Twine" creator-version="2.5.1" format="Harlowe" format-version="3.3.3" ifid="4454AA3B-C1D5-442B-885F-96B8079A7E8A" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Llegenda noms" tags="" position="600,400" size="100,100">AMICS: Venn, Herios, Lomen
+
+</tw-passagedata><tw-passagedata pid="2" name="continuation" tags="" position="900,400" size="100,100">- Okay, where are we going, again? -Venn seemed a little norvous-.
+
+- We are arriving to turtur. - Said Lomen proudly- They say every legend begins there.
+
+- You know nearly every legend or history is about pirates don&#39;t you?
+
+- Yeah. Right. And what about that?
+
+- Everyone there will be a pirate. You know I don&#39;t like pirates! Crossing their path don&#39;t lead to anywhere near good. 
+
+- Unless you befriend them. Relax! All will be fine. 
+
+Venn didn&#39;t look convinced by Lomen&#39;s words, and decided to keep reading instead. After a while, Herios come from bow, with a spyglass in hand. 
+
+- Guys, do you recognize... Well, its like a pirate flag, but it has 2 golden rings on it...  I don&#39;t think they have good intentions.
+
+[[Take spyglass]] Take spyglass from his hand and look at where he points.
+[[Convo]] Ask: What did you saw exactly?</tw-passagedata><tw-passagedata pid="3" name="Take spyglass" tags="" position="1100,300" size="100,100">The ship was bigger. Much bigger that what you had, and it was looking at ours. as Herios said, the flag was from pirates, but instead of a human skull it looked more of a goat&#39;s head, and it had these 2 big rings in the background. It was approaching rapidly and it didn&#39;t look like it had good intentions. 
+
+[[Dispute]]</tw-passagedata><tw-passagedata pid="4" name="Convo" tags="" position="1100,475" size="100,100">- Well, you can&#39;t see much from were we are. But it had that flag I told you, and there is no doubt they are comming toward us. Directly. Oh, and the ship is big, like, super big. I would try to avoid them and see if they follow us, though.
+
+[[Dispute]]</tw-passagedata><tw-passagedata pid="5" name="Dispute" tags="" position="1300,400" size="100,100">A dispute started.
+
+- We have to approach and look what they are up to. They won&#39;t want us, since we have nothing worth in this ship.
+
+- Lomen, are you really thinking about approaching and talking to them? - said Venn - We just turn the boat and run away. They are not just gonna persue us if they don&#39;t know who we are? 
+
+- What if we just border them? They might not be interested in us.
+
+They continue to argue as you see the ship approach slowly toward you.</tw-passagedata></tw-storydata>
+
+<tw-storydata name="design_delivery_02" startnode="1" creator="Twine" creator-version="2.5.1" format="Harlowe" format-version="3.3.3" ifid="0D2C61F2-2C3D-4BC4-84A1-1FE15D41557F" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Beggining" tags="" position="800,350" size="100,100">- So. The sailboat hasn&#39;t returned. And you have no idea where </tw-passagedata></tw-storydata>
+
